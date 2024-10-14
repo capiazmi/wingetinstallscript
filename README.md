@@ -8,27 +8,28 @@ This repository contains two scripts (Batch and PowerShell) to automate the inst
 
 This batch script installs the following software:
 
-- DBeaver
-- Visual Studio Code
-- WinSCP
-- MobaXterm
-- Notepad++
-- Steam
+- 7-Zip
 - Battle.net
-- Ubisoft Connect
+- Bitdefender
+- Cyberduck
+- Discord
+- DBeaver
 - EA App
 - Epic Games Launcher
 - Google Chrome
 - Google Drive
-- Discord
-- WhatsApp
-- Cyberduck
-- 7-Zip
-- Transmission Remote GUI
-- Bitdefender
 - HWMonitor
+- Kleopatra
 - Microsoft Office 365
+- MobaXterm
 - NVIDIA Drivers
+- Notepad++
+- Steam
+- Transmission Remote GUI
+- Ubisoft Connect
+- Visual Studio Code
+- WhatsApp
+- WinSCP
 
 #### Usage
 
@@ -66,27 +67,28 @@ This PowerShell script performs the same function as the batch script but allows
 
 Both scripts install the following applications:
 
-- **DBeaver**: Database management tool
-- **Visual Studio Code**: Source code editor
-- **WinSCP**: File transfer utility
-- **MobaXterm**: Remote computing software
-- **Notepad++**: Text editor
-- **Steam**: Game distribution platform
+- **7-Zip**: File archiver
 - **Battle.net**: Game distribution platform (Blizzard)
-- **Ubisoft Connect**: Ubisoft game platform
+- **Bitdefender**: Security software
+- **Cyberduck**: File transfer utility
+- **Discord**: Communication app
+- **DBeaver**: Database management tool
 - **EA App**: EA game platform
 - **Epic Games Launcher**: Epic Games distribution platform
 - **Google Chrome**: Web browser
 - **Google Drive**: Cloud storage
-- **Discord**: Communication app
-- **WhatsApp**: Messaging app
-- **Cyberduck**: File transfer utility
-- **7-Zip**: File archiver
-- **Transmission Remote GUI**: BitTorrent client remote control
-- **Bitdefender**: Security software
 - **HWMonitor**: Hardware monitoring tool
+- **Kleopatra**: Certificate management tool
 - **Microsoft Office 365**: Office productivity suite
+- **MobaXterm**: Remote computing software
 - **NVIDIA Drivers**: Latest NVIDIA graphics drivers
+- **Notepad++**: Text editor
+- **Steam**: Game distribution platform
+- **Transmission Remote GUI**: BitTorrent client remote control
+- **Ubisoft Connect**: Ubisoft game platform
+- **Visual Studio Code**: Source code editor
+- **WhatsApp**: Messaging app
+- **WinSCP**: File transfer utility
 
 ### Requirements
 
