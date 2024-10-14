@@ -1,0 +1,29 @@
+@echo off
+echo Installing DBeaver...
+winget install --id dbeaver.dbeaverce --silent --accept-package-agreements --accept-source-agreements
+
+echo Installing Visual Studio Code...
+winget install --id Microsoft.VisualStudioCode --silent --accept-package-agreements --accept-source-agreements
+
+echo Installing WinSCP...
+winget install --id WinSCP.WinSCP --silent --accept-package-agreements --accept-source-agreements
+
+echo Installing MobaXterm...
+winget install --id Mobatek.MobaXterm --silent --accept-package-agreements --accept-source-agreements
+
+echo Installing Notepad++...
+winget install --id Notepad++.Notepad++ --silent --accept-package-agreements --accept-source-agreements
+
+echo Installing Steam...
+winget install --id Valve.Steam --silent --accept-package-agreements --accept-source-agreements
+
+echo Installing Battle.net...
+winget install --id Blizzard.BattleNet --silent --accept-package-agreements --accept-source-agreements
+
+echo Installing WhatsApp...
+winget install --id 9NKSQGP7F2NH --silent --accept-package-agreements --accept-source-agreements
+
+echo Installing Bitwarden...
+winget install --id Bitwarden.Bitwarden --silent --accept-package-agreements --accept-source-agreements
+
+echo All applications have been installed!
