@@ -41,6 +41,9 @@ Install-IfNotInstalled '7zip.7zip' '7-Zip'
 Install-IfNotInstalled 'Transmission.TransmissionRemoteGui' 'Transmission Remote GUI'
 Install-IfNotInstalled 'Bitdefender.Bitdefender' 'Bitdefender'
 Install-IfNotInstalled 'CPUID.HWMonitor' 'HWMonitor'
+Install-IfNotInstalled 'Microsoft.Office' 'Microsoft Office 365'
+Install-IfNotInstalled 'NVIDIACorporation.NVIDIAControlPanel' 'NVIDIA Drivers'
+
 
 
 
