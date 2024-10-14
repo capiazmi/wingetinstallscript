@@ -29,5 +29,8 @@ Install-IfNotInstalled 'Valve.Steam' 'Steam'
 Install-IfNotInstalled 'Blizzard.BattleNet' 'Battle.net'
 Install-IfNotInstalled '9NKSQGP7F2NH' 'WhatsApp'
 Install-IfNotInstalled 'Bitwarden.Bitwarden' 'Bitwarden'
+Install-IfNotInstalled 'Kleopatra.Kleopatra' 'Kleopatra'
+Install-IfNotInstalled 'iterate.Cyberduck' 'Cyberduck'
+
 
 Write-Host "All requested applications have been processed."
