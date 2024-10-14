@@ -62,4 +62,11 @@ winget install --id Bitdefender.Bitdefender --silent --accept-package-agreements
 echo Installing HWMonitor...
 winget install --id CPUID.HWMonitor --silent --accept-package-agreements --accept-source-agreements
 
+echo Installing Microsoft Office 365...
+winget install --id Microsoft.Office --silent --accept-package-agreements --accept-source-agreements
+
+echo Installing NVIDIA Drivers...
+winget install --id NVIDIACorporation.NVIDIAControlPanel --silent --accept-package-agreements --accept-source-agreements
+
+
 echo All applications have been installed!
