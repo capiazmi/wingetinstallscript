@@ -26,4 +26,10 @@ winget install --id 9NKSQGP7F2NH --silent --accept-package-agreements --accept-s
 echo Installing Bitwarden...
 winget install --id Bitwarden.Bitwarden --silent --accept-package-agreements --accept-source-agreements
 
+echo Installing Kleopatra...
+winget install --id Kleopatra.Kleopatra --silent --accept-package-agreements --accept-source-agreements
+
+echo Installing Cyberduck...
+winget install --id iterate.Cyberduck --silent --accept-package-agreements --accept-source-agreements
+
 echo All applications have been installed!
